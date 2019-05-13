@@ -1,0 +1,9 @@
+.list-container    {
+    position: absolute;
+}
+
+.display-container  {
+    position: relative;
+    float: left;
+    margin-left: 600px;
+}
